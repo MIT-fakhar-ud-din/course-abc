@@ -1,0 +1,38 @@
+{
+  "term": "Summer",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-new-course-site"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-new-course-site"
+  },
+  "course_title": "Hello World Course",
+  "course_description": "Hellow World Course",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-new-course-site"
+  },
+  "learning_resource_types": [
+    "Course Introduction"
+  ],
+  "site_uid": "e6514fcb-ff11-46e1-9a48-7ab351b4c891",
+  "site_short_id": "course-abc"
+}
